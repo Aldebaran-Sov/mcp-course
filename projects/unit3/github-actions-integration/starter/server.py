@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Module 2: GitHub Actions Integration - STARTER CODE
+Module 2: GitHub Actions Integration - STARTER CODE 
 Extend your PR Agent with webhook handling and MCP Prompts for CI/CD workflows.
 
 """
